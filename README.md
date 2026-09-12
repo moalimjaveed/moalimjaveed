@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=3000&pause=1000&color=E60023&center=true&vCenter=true&width=500&height=50&lines=Moalim+Javid" alt="Moalim Javid" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=3000&pause=1000&color=E60023&center=true&vCenter=true&width=500&height=50&lines=Moalim+Javeed" alt="Moalim Javeed" />
 
 <p><em>Somewhere between cells, circuits, code, and machines.</em></p>
 
