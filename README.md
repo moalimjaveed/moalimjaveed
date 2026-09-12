@@ -9,8 +9,8 @@
   <tr>
     <td><a href="https://www.linkedin.com/in/moalim-javeed-b8bb83170/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
     <td><a href="mailto:darmoalim@gmail.com"><img src="https://img.shields.io/badge/Email-e60023?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a></td>
-    <td><a href="https://github.com/MoalimJavid"><img src="https://img.shields.io/badge/GitHub-262622?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a></td>
-    <td><img src="https://komarev.com/ghpvc/?username=MoalimJavid&label=Views&color=e60023&style=flat-square" alt="Views" /></td>
+    <td><a href="https://github.com/MoalimJaveed"><img src="https://img.shields.io/badge/GitHub-262622?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a></td>
+    <td><img src="https://komarev.com/ghpvc/?username=MoalimJaveed&label=Views&color=e60023&style=flat-square" alt="Views" /></td>
   </tr>
 </table>
 
